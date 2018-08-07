@@ -1,18 +1,28 @@
-# teamcham
 
-> A Vue.js project
+# 2018 Teamcham 鼎晟 - 台北市 汽車停車位買賣官網 (Exercise CSS3 Flexbox Layout)
+>(Responsive Web Design)
 
-## Build Setup
+### Preview site
+Coming soon
 
-``` bash
-# install dependencies
-npm install
+### Plugins
+ - Scss
+ - Css3 Flexbox Layout
+ - Vuejs
+ - Swiper
+ - webpack
 
-# serve with hot reload at localhost:8080
-npm run dev
+ ### Test project
+> Please refer to the following steps.
 
-# build for production with minification
-npm run build
+※chech Dillinger requires Node.js v4+ to run.
+
+Install the dependencies and devDependencies and start the server.
+```sh
+$ cd Teamcham
+$ npm install -d
+$ npm run dev
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+License
+MIT
