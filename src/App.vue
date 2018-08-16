@@ -5,7 +5,9 @@
     <service></service>
     <div class="midArea">
       <hot-case></hot-case>
+      <news-and-understand-more></news-and-understand-more>
     </div>
+    <below></below>
   </div>
 </template>
 
@@ -14,6 +16,8 @@ import headerCommon from './components/common/headerCommon'
 import banner from './components/index/banner'
 import service from './components/index/service'
 import hotCase from './components/index/hotCase'
+import newsAndUnderstandMore from './components/index/newsAndUnderstandMore'
+import below from './components/index/below'
 export default {
   name: 'app',
   data () {
@@ -25,7 +29,9 @@ export default {
     headerCommon,
     banner,
     service,
-    hotCase
+    hotCase,
+    newsAndUnderstandMore,
+    below
   }
 }
 </script>

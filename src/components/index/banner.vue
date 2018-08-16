@@ -15,7 +15,7 @@
 <script>
   import { swiper, swiperSlide } from 'vue-awesome-swiper'
   export default {
-    name: 'carrousel',
+    name: 'banner',
     data () {
       return {
         swiperOption: {
@@ -133,4 +133,3 @@
     }
   // }
 </style>
-

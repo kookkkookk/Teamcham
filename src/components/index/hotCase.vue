@@ -12,7 +12,7 @@
 </template>
 <script>
 export default {
-    
+    name: "hot-case"
 }
 </script>
 <style lang="scss">
