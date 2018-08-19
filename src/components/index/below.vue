@@ -28,6 +28,7 @@ export default {
         background-position: 100% 50%;
         @include SCREEN_1300{
             background-image: url("");
+            height: auto;
         }
         .belowContent{
             width: 1280px;
@@ -35,6 +36,7 @@ export default {
             margin: 0 auto;
             @include SCREEN_1300{
                 width: 100%;
+                height: auto;
             }
             >ul{
                 display: flex;

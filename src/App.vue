@@ -8,6 +8,7 @@
       <news-and-understand-more></news-and-understand-more>
     </div>
     <below></below>
+    <footer-common></footer-common>
   </div>
 </template>
 
@@ -18,6 +19,7 @@ import service from './components/index/service'
 import hotCase from './components/index/hotCase'
 import newsAndUnderstandMore from './components/index/newsAndUnderstandMore'
 import below from './components/index/below'
+import footerCommon from './components/common/footerCommon'
 export default {
   name: 'app',
   data () {
@@ -31,7 +33,8 @@ export default {
     service,
     hotCase,
     newsAndUnderstandMore,
-    below
+    below,
+    footerCommon
   }
 }
 </script>

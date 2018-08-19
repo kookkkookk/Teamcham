@@ -199,7 +199,7 @@ export default {
                         display: block;
                         width: 82px;
                         height: 82px;
-                        background-color: #f7f7f7;
+                        background-color: #fff;
                         pointer-events: none;
                         transform: rotate(45deg);
                         margin-top: -50px;
